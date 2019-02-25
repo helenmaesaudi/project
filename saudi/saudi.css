@@ -1,0 +1,125 @@
+html {
+    box-sizing: border-box
+}
+
+box-sizing: inherit
+}
+
+-ms-text-size-adjust: 100%;
+
+
+font: inherit html,
+body {
+    font-family: Verdana, sans-serif;
+    font-size: 15px;
+    line-height: 1.5
+}
+
+
+}
+
+.w3-image {
+    max-width: 100%;
+    height: auto
+}
+
+
+
+.w3-btn,
+.w3-button {
+    border: none;
+    display: inline-block;
+    padding: 8px 16px;
+    text-align: center;
+    cursor: pointer;
+
+}
+
+
+.w3-opacity,
+.w3-hover-opacity:hover {
+    opacity: 0.60
+}
+
+.w3-opacity-off,
+.w3-hover-opacity-off:hover {
+    opacity: 1
+}
+
+.w3-opacity-max {
+    opacity: 0.25
+}
+
+.w3-opacity-min {
+    opacity: 0.25
+}
+
+.w3-greyscale-max,
+.w3-grayscale-max,
+.w3-hover-greyscale:hover,
+.w3-hover-grayscale:hover {
+    filter: grayscale(100%)
+}
+
+.w3-large {
+    font-size: 18px !important
+}
+
+
+.w3-jumbo {
+    font-size: 64px !important
+}
+
+.w3-center-align {
+    text-align: center !important
+}
+
+
+.w3-center {
+    text-align: center !important
+}
+
+.w3-border-top {
+    border-top: 1px solid #ccc !important
+}
+
+
+
+
+.w3-white,
+.w3-hover-white:hover {
+    color: #000 !important;
+    background-color: #fff !important
+}
+
+.w3-grey,
+.w3-hover-grey:hover,
+.w3-gray,
+.w3-hover-gray:hover {
+    color: #000 !important;
+    background-color: #9e9e9e !important
+}
+
+.w3-light-grey,
+.w3-hover-light-grey:hover,
+.w3-light-gray,
+.w3-hover-light-gray:hover {
+    color: #000 !important;
+    background-color: #f1f1f1 !important
+}
+
+.w3-dark-grey,
+.w3-hover-dark-grey:hover,
+.w3-dark-gray,
+.w3-hover-dark-gray:hover {
+    color: #fff !important;
+    background-color: #616161 !important
+}
+
+
+
+
+.w3-text-white,
+.w3-hover-text-white:hover {
+    color: #fff !important
+}

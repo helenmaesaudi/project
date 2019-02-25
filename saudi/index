@@ -1,0 +1,104 @@
+<html>
+	<head>
+		<title>LOVE LETTERS</title>
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	</head>
+	<body>
+		<div class="container">
+			<div class="row">	
+				<div class="col-3>
+				<a href="love.jpg">
+			</a>
+		
+				<hr>
+				<!--Write Education Here-->
+				<section id="Education">
+					<h2> Education </h2>
+					<div class="row">	
+						<div class="col">
+							2018-Present
+						</div>
+						<div class="col">
+							DE LA SALLE UNIVERSITY
+							BS Industrial Engineering
+						</div>
+					</div>
+					<div class="row">	
+						<div class="col">
+							2016-2018
+						</div>
+						<div class="col">
+							DE LA SALLE UNIVERSITY-INTEGRATED SCHOOL
+						</div>
+					</div>
+					<div class="row">	
+						<div class="col">
+							2012-2016
+						</div>
+						<div class="col">
+							CANOSSA SCHOOL
+						</div>
+					</div>
+				</section>
+		
+				<!--Write Co-curricular Here-->
+				<section id="curricular">
+					<h2> Co-curricular Activities </h2>
+					<div class="row">	
+						<div class="col">
+							2018-Present
+						</div>
+						<div class="col">
+							THE LASALLIAN-
+							UNIVERSITY STAFF TRAINEE
+						</div>
+					</div>
+					<div class="row">	
+						<div class="col">        
+							2018-Present
+						</div>
+			
+						<div class="col">                      
+							INDUSTRIAL MANAGEMENT ENGINEERING SOCIETY (IMES)-MEMBER
+						</div>
+					</div>
+				</section>
+		
+				<!--Write Seminars Here-->
+				<section id="Seminars Attended">
+					<h2> Seminars Attended </h2>
+					<div class="row">	
+						<div class="col">
+							November 2018
+						</div>
+						<div class="col">
+							SCRIBED 2018-De La Salle University-Araneta
+						</div>
+					</div>	
+				</section>
+				<!--Write Personal Background Here-->
+				<section id="Personal Background">
+					<h2> Personal Background </h2>
+					<div class="row">
+						<div class="col">
+						</div>
+						<div class="col">
+								Born on May 5, 1999. in Las Pinas, City. Fluent in English and Filipino. Knowledgeable in news writing. Interests: Writing, reading 
+						</div>
+					</div>
+				</section>
+		<!--Write References Here-->
+				<section id="Reference">
+					<h2> Reference </h2>
+					<div class="row">
+						<div class="col">
+						</div>
+						<div class="col">
+								FRANK NICCOLO SANTIAGO: The LaSallian University Editor; 0917 306 1840; frank_santiago@dlsu.edu.ph; 2401 Taft Ave, Malate, Manila, 1004 Metro Manila.
+						</div>
+					</div>
+				</section>
+		
+		
+	</body>
+</html>
